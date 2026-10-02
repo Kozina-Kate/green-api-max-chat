@@ -1,2 +1,1 @@
-# green-api-max-chat
-A minimal React and TypeScript chat client for sending and receiving text messages in MAX via GREEN-API.
+Веб-приложение с минималистичным интерфейсом чата, разработанное на React и TypeScript. Позволяет подключиться к GREEN-API с помощью idInstance и apiTokenInstance, создать чат по номеру телефона, отправлять текстовые сообщения в MAX и получать ответы через HTTP API. Интерфейс адаптирован для десктопных и мобильных устройств.
